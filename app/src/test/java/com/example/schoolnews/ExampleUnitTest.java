@@ -1,4 +1,4 @@
-package mg.studio.myapplication;
+package com.example.schoolnews;
 
 import org.junit.Test;
 
